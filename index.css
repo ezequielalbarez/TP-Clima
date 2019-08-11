@@ -1,0 +1,25 @@
+body {
+	background-color: gray;
+	font-size: 1.3em;
+	line-height: 3em;
+
+	margin-left: 10%;
+}
+
+input {
+	background-color: gray;
+	font-size: 1em;
+    border-top-left-radius: 5;
+    border-bottom-left-radius: 5;
+    border-radius: 15px;
+}
+
+select {
+	background-color: gray;
+	font-size: 1em;
+
+}
+
+button {
+	font-size: 1.3em;
+}
